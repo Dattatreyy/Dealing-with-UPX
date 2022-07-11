@@ -34,6 +34,7 @@ Do step over (F7). You can see your entrypoint and first byte of unpacked malwar
 
  # 2. ESP Method
  Run the sample and do step over. You’ll see Entrypoint at ESP in Registers section. Right click to that address and do “follow in dump”
+ 
 <img width="585" alt="dts" src="https://user-images.githubusercontent.com/107531426/178295205-e488dc46-d4f5-476c-961e-bf593a424cff.PNG">
 
 Do BreakPoint>Hardware Access>Dword at the Dword (4Bytes) in Dump. 
