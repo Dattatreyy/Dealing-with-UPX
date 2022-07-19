@@ -17,7 +17,7 @@ First Bytes: 52,6A,36,68
 # Checking this manually with x32dbg
 
 # 1. Push Pop Method
-Load sample in x32dbg and Run the Malware (F9). You’ll be at Entrypoint of your Binary (60 pushad)
+Load sample in debugger and Run the Malware. You’ll be at Entrypoint of your Binary (60 pushad)
 <img width="752" alt="Picture6" src="https://user-images.githubusercontent.com/107531426/178291384-38ce7e5b-a3ce-4eed-98d1-218418508f6b.png">
 <img width="752" alt="Picture7" src="https://user-images.githubusercontent.com/107531426/178291942-b602f67a-82d3-4afe-888a-d961b0717c7d.png">
 
